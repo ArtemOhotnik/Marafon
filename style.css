@@ -1,0 +1,9 @@
+
+a {
+    font-size: 2000px;
+    color: hotpink;
+}
+a:link {
+    color: red;
+    font-size: 2000px;
+}
